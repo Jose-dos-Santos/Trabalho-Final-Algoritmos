@@ -1,0 +1,2 @@
+ Os pontos de conexões onde vão gerar um menor custo: [(5, 6), (6, 7), (5, 2), (2, 8), (2, 3), (2, 1), (1, 0), (3, 4)]
+ Custo total em metros:  [37]
