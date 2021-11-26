@@ -13,7 +13,7 @@ Objetivo: O projeto desenvolvido foi pensado em situações
 em que se precisa realizar um trabalho de cálculo de 
 metragem de cabo/fibra opta para realizar uma conexão de rede.
 O servidor Provedor de internet ficaria em um ponto específico da
-cidade e passando as informações correta para arquivo de entrada123.txt
+cidade e passando as informações correta para arquivo de entrada_dados.txt
 sistema calcula o menor custo para realizar e também qual seria as rotas  melhores de passagem.  
 O algoritmo utilizado foi:
 • Árvore geradora mínima
