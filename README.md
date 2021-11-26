@@ -10,7 +10,7 @@ O algoritmo utilizado foi:
 • Árvore geradora mínima
 
 As entradas são lidas via arquivos de texto, é gerado o resultado em um arquivo de saída de texto.
-Exemplos: Dentro do repositório do projeto tem um arquivo.py chamado ler_arquivo_entrada, nesse arquivo tem dois exemplos para teste, basta apenas copiar um único exemplo desejado e colar dentro do arquivo entrada.txt, reforçando a entrada.txt recebe um exemplo por vez.
+Exemplos: Dentro do repositório do projeto tem um arquivo.py chamado ler_arquivo_entrada, nesse arquivo tem dois exemplos para teste, basta apenas copiar um único exemplo desejado e colar dentro do arquivo entrada.txt, reforçando a entrada_dados.txt recebe um exemplo por vez.
 
 Especificações: O trabalho foi desenvolvido em Python e não precisou utilizar nenhuma lib. 
 
